@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Run nomad-scout from anywhere: ./nomad-scout list
+set -euo pipefail
+
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+if [ -x "$DIR/.venv/bin/python" ]; then
+  PY="$DIR/.venv/bin/python"
+else
+  PY="$(command -v python3)"
+fi
+
+exec env PYTHONPATH="$DIR${PYTHONPATH:+:$PYTHONPATH}" "$PY" -m nomad_scout "$@"

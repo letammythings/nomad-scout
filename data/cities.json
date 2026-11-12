@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "cities": {
+    "ho-chi-minh-city": {
+      "city": "Ho Chi Minh City",
+      "slug": "ho-chi-minh-city",
+      "country": "Vietnam",
+      "source": "prior research, carried over from the project brief",
+      "updated_at": "2026-08-09",
+      "first_scouted": "2026-08-09",
+      "best_neighborhood": "District 3",
+      "bottom_line": "District 3 is the Hai Chau equivalent — real residential Saigon with enough cafes and expats to function, without District 1 pricing or crowds.",
+      "sweet_spot": [
+        "District 3 — the Hai Chau equivalent"
+      ],
+      "also_good": [
+        "Phu Nhuan — hidden gem, more local, cheaper",
+        "Binh Thanh — value pick, good for the budget"
+      ],
+      "avoid": [
+        "District 1 — touristy and priced for it",
+        "District 4 — too rough"
+      ],
+      "find_apartments": [
+        "Facebook: \"Ho Chi Minh City Expats\"",
+        "Facebook: \"Saigon Apartments for Rent\"",
+        "LivingInVietnam.com"
+      ],
+      "notes": "Outdoor fitness, work cafes, and specific listings were never researched in detail. Run a refresh before flying.",
+      "apartments": []
+    },
+    "chiang-mai": {
+      "city": "Chiang Mai",
+      "slug": "chiang-mai",
+      "country": "Thailand",
+      "source": "prior research, carried over from the project brief",
+      "updated_at": "2026-08-09",
+      "first_scouted": "2026-08-09",
+      "best_neighborhood": "Santitham",
+      "bottom_line": "Santitham is the pick: local, cheap at THB 8,000-18,000/month, and five minutes by scooter to everything Nimman has without paying Nimman rents.",
+      "sweet_spot": [
+        "Santitham — best overall. Local, THB 8,000-18,000/mo, 5 min scooter to Nimman"
+      ],
+      "also_good": [
+        "Nimman — slightly expat-heavy but the best cafes and gyms",
+        "Wat Ket — bohemian, riverside"
+      ],
+      "gyms": [
+        "Pump Fitness — THB 100/day, 4.8 stars",
+        "In-Come Gym — THB 100/day, 4.9 stars"
+      ],
+      "cafes": [
+        "Yellow Coworking — 24hr, free daily coffee",
+        "CAMP Cafe at Maya Mall — open till midnight"
+      ],
+      "find_apartments": [
+        "Facebook: \"Chiang Mai Digital Nomads\"",
+        "cnxlocal.com"
+      ],
+      "notes": "Outdoor pull-up bars were never confirmed here — that is the open question. Burning season (roughly February to April) is the other thing to check before committing to dates.",
+      "apartments": []
+    },
+    "tokyo": {
+      "city": "Tokyo",
+      "slug": "tokyo",
+      "country": "Japan",
+      "source": "prior research, carried over from the project brief",
+      "updated_at": "2026-08-09",
+      "first_scouted": "2026-08-09",
+      "best_neighborhood": "Kugahara / Yaguchi (Ota-ku)",
+      "bottom_line": "Ota-ku along the Tokyu Ikegami line is the residential-Tokyo answer: confirmed outdoor pull-up bars a seven-minute walk away, unhurried Komeda-style cafes, and 20 minutes to Shibuya.",
+      "sweet_spot": [
+        "Kugahara",
+        "Den-en-chofu",
+        "Yaguchi / Musashi-Nitta"
+      ],
+      "fitness": [
+        "Yaguchi Nichome Park — 7 min walk, confirmed pull-up bars, known locally as Tarzan Park",
+        "Heiwanomori Park — 20 min bike, 40-obstacle outdoor course, 4.1 stars",
+        "Den-en-chofu Seseragikan — public community gym, JPY 400/session, 4.3 stars"
+      ],
+      "cafes": [
+        "Komeda's Coffee Shimomaruko — huge booths, 06:30-22:30, never rushed",
+        "Pelican Coffee Den-en-chofu — WiFi and outlets, work-from-home crowd",
+        "Kamata Cafe — 4.5 stars, outlets, near-empty on weekdays"
+      ],
+      "transit": "Tokyu Ikegami line to Kamata, then Shibuya in 20 min or Shinagawa in 15 min.",
+      "notes": "The strongest confirmed fitness finding of any city so far. Housing under $800 for two is the constraint here — verify before committing.",
+      "apartments": []
+    },
+    "osaka": {
+      "city": "Osaka",
+      "slug": "osaka",
+      "country": "Japan",
+      "source": "prior research, carried over from the project brief",
+      "updated_at": "2026-08-09",
+      "first_scouted": "2026-08-09",
+      "best_neighborhood": "Nishinakajima (with reservations)",
+      "bottom_line": "Nishinakajima works for transit on the Midosuji line but fails the daily-fitness test — no confirmed pull-up bars within walking distance. Fixable by choosing a different base near Nakatsu or Nagai.",
+      "sweet_spot": [],
+      "also_good": [
+        "Nishinakajima / Kita ward — good transit, weak outdoor fitness"
+      ],
+      "fitness": [
+        "Juso Park — 15 min from Nishinakajima, confirmed bar",
+        "Nakatsu South Park — confirmed pull-ups and dip bars",
+        "Nagai Park — 9,000+ reviews, running track, pool, skate park",
+        "Osaka Castle Park + Running Base — 5km moat loop, locker and shower JPY 1,000",
+        "Tsurumi Ryokuchi — free parkrun on Saturdays"
+      ],
+      "cafes": [
+        "Komeda's Coffee — multiple branches",
+        "Local independent spots (not yet named)"
+      ],
+      "notes": "Open question: which neighborhood near Nakatsu South Park or Nagai Park has furnished stock under $800. That is the thing to research next.",
+      "apartments": []
+    },
+    "seoul": {
+      "city": "Seoul",
+      "slug": "seoul",
+      "country": "South Korea",
+      "source": "prior research, carried over from the project brief",
+      "updated_at": "2026-08-09",
+      "first_scouted": "2026-08-09",
+      "best_neighborhood": "Seongsu-dong",
+      "bottom_line": "Seongsu-dong, Yeonnam-dong, or Mangwon-dong give the chill local feel inside Seoul. Chuncheon, an hour east, is the nature option if the city gets heavy.",
+      "sweet_spot": [
+        "Seongsu-dong",
+        "Yeonnam-dong",
+        "Mangwon-dong"
+      ],
+      "notes": "Nature nearby: Chuncheon, 1 hr east, lakes and mountains. Outdoor fitness parks are common in Korean neighborhoods but were never confirmed for these specific areas. Budget is the open question — Seoul is the most expensive city on the list.",
+      "apartments": []
+    },
+    "busan": {
+      "city": "Busan",
+      "slug": "busan",
+      "country": "South Korea",
+      "source": "prior research, carried over from the project brief",
+      "updated_at": "2026-08-09",
+      "first_scouted": "2026-08-09",
+      "best_neighborhood": "Haeundae",
+      "bottom_line": "The best Chiang Mai equivalent in Korea — beach, mountains, and meaningfully cheaper than Seoul.",
+      "sweet_spot": [
+        "Haeundae"
+      ],
+      "notes": "Nothing confirmed yet on outdoor bars, cafes, or listings. Full scout needed.",
+      "apartments": []
+    },
+    "fukuoka": {
+      "city": "Fukuoka",
+      "slug": "fukuoka",
+      "country": "Japan",
+      "source": "prior research, carried over from the project brief",
+      "updated_at": "2026-08-09",
+      "first_scouted": "2026-08-09",
+      "best_neighborhood": "",
+      "bottom_line": "Ranked #1 of the Japanese cities as a Chiang Mai equivalent: beach and mountains close, cheapest of the four, great cafes, compact, and direct flights to Southeast Asia.",
+      "notes": [
+        "Japan ranking from the brief, best first:",
+        "1. Fukuoka — beach and mountains nearby, cheapest, great cafes, compact, direct SEA flights",
+        "2. Kanazawa — Sea of Japan and mountains, ~$415/mo average rent, cultural",
+        "3. Matsumoto — Japanese Alps, most outdoorsy",
+        "4. Sapporo — nature-heavy, ~25% cheaper than Tokyo, cold winters"
+      ],
+      "apartments": []
+    }
+  }
+}
